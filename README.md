@@ -1,53 +1,29 @@
-I'm a Swiss researcher in **Machine Learning and Artificial Intelligence**, with a strong focus on
-**dynamical systems, reservoir computing, self-supervised learning (SSL) and Simulation-Based Inference (SBI)**.
+I'm a Swiss researcher in Machine Learning and Artificial Intelligence, working at the intersection of
+dynamical systems, reservoir computing, self-supervised learning, and simulation-based inference.
 
-My work sits at the intersection of:
-- theoretical and applied machine learning  
-- ML applied to science
-- creative and visual AI tools for scientific education
+My work combines theoretical and applied machine learning, scientific computing, and visual tools for
+research and education. I focus on models that are understandable, controllable, and grounded in physical
+or dynamical principles, with a strong commitment to free and open-source AI.
 
-I care about models that are understandable, controllable, and grounded in physical or dynamical principles,
-with a strong emphasis on **open models**, **open implementations**, and FOSAI (Free and Open Source Artificial Intelligence).
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nschaetti) ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+Artificialis is my main research and outreach project. It explores artificial intelligence through code,
+mathematics, and critical thinking, while engaging with its philosophical, artistic, and social dimensions.
+The goal is not to mystify AI, but to understand how algorithms actually work, where they succeed, where
+they fail, and what they change in the way we think, create, and work.
 
 ## Research interests
 
-- Reservoir Computing & Echo State Networks  
+- **Reservoir Computing** (RC) & **Echo State Networks** (ESN)
 - Self-Supervised Learning (SSL): contrastive and regularized learning (JEPA)
 - Physics-informed, neural operators for simulation-based inference
 - GPU-accelerated scientific computing  
 - Visual computing & generative effects for arts and education 
 
-## 🧪 Selected projects
+## Selected projects
 
-### 🔹 Artificialis
-
-### 🔹 EchoTorch
-A **Python toolkit for Reservoir Computing** and Echo State Network experimentation built on top of PyTorch.
-
-- Designed for research and rapid prototyping  
-- Supports deep and structured reservoirs  
-- Focus on clarity and extensibility
-- Integrate advanced framework such as Conceptors
-
-### 🔹 PixelPrism
-A Python library for **advanced visual effects on images and videos**.
-
-- A symbolic mathematical engine
-- Procedural and programmable visual transformations  
-- Designed for experimentation, art, and creative coding  
-- Bridges signal processing, vision, and aesthetics  
-
-### 🔹 Hyperion
-An **educational deep learning stack** aimed at demystifying modern ML systems.
-
-- From tensor computation to transformer architectures  
-- Emphasis on conceptual understanding  
-- GPU-aware, transparent, and modular  
-
-### 🔹 Other projects
+- **Artificialis**: a YouTube channel exploring artificial intelligence through code, mathematics, and critical thinking, without ignoring its philosophical, artistic, and social dimensions.
+- **EchoTorch**: a **Python toolkit for Reservoir Computing** and Echo State Network experimentation built on top of PyTorch.
+- **Pixel Prism**: a Python library for mathematical education with **advanced visual effects** and **symbolic mathematics**.
+- **Hyperion**: an **educational deep learning stack** aimed at demystifying modern ML systems.
 - **DeckPilot** – customizable Stream Deck interface for scripting and automation  
 - **Tempest** – CUDA-accelerated engine for full waveform inversion and scientific modeling  
 - **boardGPT** – lightweight experiments around training/fine-tuning GPT-like models on structured games and languages for AGI.
@@ -58,7 +34,7 @@ An **educational deep learning stack** aimed at demystifying modern ML systems.
 - Experience across academia, applied research, and open-source development  
 - Strong background in **Python, C++, CUDA**, and scientific ML tooling  
 
-## 🌍 Links
+## Links
 
 - [my website](http://www.nilsschaetti.com)
 - **X / Twitter**: @nschaetti / @Artificialis1
