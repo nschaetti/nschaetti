@@ -5,11 +5,6 @@ My work combines theoretical and applied machine learning, scientific computing,
 research and education. I focus on models that are understandable, controllable, and grounded in physical
 or dynamical principles, with a strong commitment to free and open-source AI.
 
-Artificialis is my main research and outreach project. It explores artificial intelligence through code,
-mathematics, and critical thinking, while engaging with its philosophical, artistic, and social dimensions.
-The goal is not to mystify AI, but to understand how algorithms actually work, where they succeed, where
-they fail, and what they change in the way we think, create, and work.
-
 ## Research interests
 
 - **Reservoir Computing** (RC) & **Echo State Networks** (ESN)
