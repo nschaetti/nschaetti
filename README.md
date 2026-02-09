@@ -8,9 +8,8 @@ or dynamical principles, with a strong commitment to free and open-source AI (FO
 ## Research interests
 
 - **Reservoir Computing** (RC) & **Echo State Networks** (ESN)
-- Self-Supervised Learning (SSL): contrastive and regularized learning (JEPA)
-- Physics-informed, neural operators for simulation-based inference
-- GPU-accelerated scientific computing  
+- **Self-Supervised Learning** (SSL): contrastive and regularized learning (JEPA)
+- Physics-informed, neural operators for **simulation-based inference** (SBI) 
 - Visual computing & generative effects for arts and education 
 
 ## Selected projects
