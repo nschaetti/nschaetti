@@ -3,7 +3,7 @@ dynamical systems, reservoir computing, self-supervised learning, and simulation
 
 My work combines theoretical and applied machine learning, scientific computing, and visual tools for
 research and education. I focus on models that are understandable, controllable, and grounded in physical
-or dynamical principles, with a strong commitment to free and open-source AI.
+or dynamical principles, with a strong commitment to free and open-source AI (FOSAI & FOSS).
 
 ## Research interests
 
