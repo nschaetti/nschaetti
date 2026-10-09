@@ -10,7 +10,7 @@ I like AI that is mathematical, controllable, visual, open-source, and useful.
 
 `Reservoir Computing` · `Echo State Networks` · `Self-Supervised Learning` · `JEPA` · `Physics-Informed ML` · `Neural Operators` · `SBI` · `Scientific Visualization`
 
-## Codding projects
+## Coding projects
 
 **EchoTorch** — Reservoir Computing with PyTorch  
 **Pixel Prism** — symbolic math and visual effects for education  
