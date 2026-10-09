@@ -18,10 +18,8 @@ I like AI that is mathematical, controllable, visual, open-source, and useful.
 
 ## Research projects
 
-**BoardWorld** — Structured games and languages GPT-like models for mechanical explainability
-
 **Migrate** — Generative models and SBI applied to sismic inversion problems
-
+**BoardWorld** — Structured games and languages GPT-like models for mechanical explainability
 **XWorlModels** — Theoretical research on world models, based on Reservoir Computing and JEPA. 
 
 ## Other projects
